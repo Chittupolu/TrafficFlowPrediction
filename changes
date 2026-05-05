@@ -1,22 +1,7 @@
-C# / .NET Core
-C# fundamentals, OOP, LINQ, Lambda, Generics, Collections, NUnit, ASP.NET Core MVC
-ASP.NET Core Framework
-Dependency Injection, IoC, Service lifetimes
-ASP.NET Core Web API
-3‑Layer architecture, REST (GET/POST/PUT/DELETE), Validation, Global exception handling, Repository pattern
-Entity Framework Core
-Code‑First, Migrations, Repository, DbContext, Transactions
-ASP.NET Core Identity & Security
-JWT authentication, Role‑based authorization, Identity framework
-Angular Framework
-Components, Services, Modules, Routing, Reactive forms, HTTP client & interceptors
-Database
-SQL Server, SSMS, EF Core ORM
-Frontend
-HTML5, CSS3, TypeScript, Angular CLI, SPA, Responsive design
-Generative AI Tools
-LLMs, RAG, LangChain
-Add‑On Skills
-Communication, Team management, Agile, Problem‑solving, Code optimization, Documentation
-
+Proficient in full‑stack development using ASP.NET Core (6.0) and Angular 16, building scalable, secure, production‑ready applications with clean architecture, Repository pattern, and service‑layer design.
+Strong experience in RESTful API development with Entity Framework Core, LINQ, SQL Server, Swagger documentation, CRUD operations, data validation, migrations, and CORS configuration.
+Skilled in implementing end‑to‑end authentication and authorization using ASP.NET Core Identity, JWT, role‑based access control, along with Stripe payment integration, SMTP notifications, and third‑party API integrations.
+Hands‑on experience developing modern Single Page Applications (SPAs) using Angular 16, including Reactive Forms, route guards, JWT authentication, Angular routing, and TypeScript.
+Proficient in LLM integration and GenAI application development using GPT‑4o, including prompt engineering, secure API key management, multi‑turn context handling, agentic AI design, and intelligent response generation.
+Experienced in building real‑time AI systems using SignalR WebSockets, enabling live AI translation, bidirectional multilingual conversations, and low‑latency AI interactions in production environments.
 
